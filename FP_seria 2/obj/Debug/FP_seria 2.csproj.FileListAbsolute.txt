@@ -1,0 +1,7 @@
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\bin\Debug\FP_seria 2.exe.config
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\bin\Debug\FP_seria 2.exe
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\bin\Debug\FP_seria 2.pdb
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\obj\Debug\FP_seria 2.csproj.AssemblyReference.cache
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\obj\Debug\FP_seria 2.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\obj\Debug\FP_seria 2.exe
+C:\Users\sebip\Documents\Probleme faculta\FP_seria 2\obj\Debug\FP_seria 2.pdb
